@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "versionFirst": "3.4.5",
     "uniqCompNum": 0,
     "versionPublish": "3.10.3",
@@ -408,7 +408,7 @@
               "linkInNewWindow": true
             }
           },
-          "title1": "DNA&nbsp;",
+          "title1": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">DNA&nbsp;</span><br>",
           "subtitle1": "The most daring and out-of-the-box experiement&nbsp;",
           "caption1": "DNA was perhaps the most exciting comeback to Indian journalism for me. Being a part of the most happening media brand at that time was both a challenge and a happy learning experience. Rebooting my journalistic career, first representing the newspaper in Hyderabad and helping launch the Bangalore edition was indeed a great journey.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
